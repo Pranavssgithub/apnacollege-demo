@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first github repositary
 <br>
-Author - Pranav
+Author - pranav gsoc
